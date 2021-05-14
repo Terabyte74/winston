@@ -1,0 +1,11 @@
+python get-pip.py
+python -m pip install --upgrade pip
+pip install psutil
+pip install fpdf
+pip install PyPDF2
+pip install tabulate
+pip install speedtest-cli
+pip install cryptography
+pip install phonenumbers
+pip install colorama
+pip install pytube

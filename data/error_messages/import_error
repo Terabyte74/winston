@@ -1,0 +1,4 @@
+#IMPORT ERROR#
+One or more of the libraries required for Winston to work are not installed.
+Please check if the requirements are satisfied and try again.
+A basic version of Winston will now run, various funcionalities could not work.

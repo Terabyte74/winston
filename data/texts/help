@@ -1,0 +1,40 @@
+                                <<< HELP >>>
+---------------------------------------------------------------------------------
+- exit :                  exit from the menu interface
+---------------------------------------------------------------------------------
+- sec_lvl :               tells you your current security level
+---------------------------------------------------------------------------------
+- chg_sec_lvl :           changes your security level
+---------------------------------------------------------------------------------
+- users_list :            gives you a list of all the users registered on this pc
+---------------------------------------------------------------------------------
+- new_admin :             creates a new admin profile
+---------------------------------------------------------------------------------
+- cmd :                   opens a windows command prompt
+---------------------------------------------------------------------------------
+- cpu :                   gives info about the CPU usage and its current status
+---------------------------------------------------------------------------------
+- wi-fi_prof :            gives a list of the wi-fi connection saved on the devise
+---------------------------------------------------------------------------------
+- wi-fi_profinfo :        gives all the info about a specific wi-fi profile
+---------------------------------------------------------------------------------
+- pdf_crypt :             function to encrypt and add a password to a .pdf file
+---------------------------------------------------------------------------------
+- sound_on / sound_off :  toggles on or off the sound
+---------------------------------------------------------------------------------
+- net_loc :               gives info about your current network's location
+---------------------------------------------------------------------------------
+- net_add :               gives a complete list of the network addresses
+---------------------------------------------------------------------------------
+- net_ver :               tells if you're connected to an internet connection
+---------------------------------------------------------------------------------
+- net_spd :               gives the current download and upload speed
+---------------------------------------------------------------------------------
+- clock :                 gives a small clock that tells the current time
+---------------------------------------------------------------------------------
+- clear :                 clears all the text on the screen
+---------------------------------------------------------------------------------
+- phonfo :                shows information about a given phone number
+---------------------------------------------------------------------------------
+- yt_dl :                 function to download videos from youtube
+---------------------------------------------------------------------------------

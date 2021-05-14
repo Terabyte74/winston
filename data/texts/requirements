@@ -1,0 +1,4 @@
+- psutil
+- fpdf
+- PyPDF2
+- tabulate

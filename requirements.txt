@@ -1,0 +1,9 @@
+fpdf
+PyPDF2
+tabulate
+cryptography
+phonenumbers
+psutil
+pytube
+speedtest-cli
+colorama

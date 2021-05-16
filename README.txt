@@ -6,7 +6,7 @@ __      ___ _ __  ___| |_ ___  _ __
   \_/\_/ |_|_| |_|___/\__\___/|_| |_|
 
 
-winston is the newest version of WinstonAI, the helpful cmd created in 2018 by WINSON™ team.
+winston is the newest version of WinstonAI, the helpful cmd created in 2019 by WINSON™ team.
 
 as soon as you have winston installed on your system you have to install all the libraries
 required through this command:

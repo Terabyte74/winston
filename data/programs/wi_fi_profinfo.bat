@@ -1,2 +1,2 @@
-netsh wlan show profile name=WifiGalilei key=clear 
+netsh wlan show profile name=profilename key=clear 
 pause

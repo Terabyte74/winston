@@ -14,6 +14,9 @@ required through this command:
 >>> cd "[path-to-new_wisnton-directory]"
 >>> pip install -r requirements.txt
 
+if you have problems installing the program or you're not used with python dynamics do not worry,
+wizard for dummies is here for you: just look for the 'wizard_for_dummies' directory.
+
 WARING: this is still the beta so you might find some bugs, in particular in the first phase:
 >DO NOT< interrupt or close the program during the protocol of creation of your admin account
  if that happens you have to uninstall and reinstall the whole program.

@@ -19,4 +19,4 @@ WARING: this is still the beta so you might find some bugs, in particular in the
  if that happens you have to uninstall and reinstall the whole program.
 
 CURRENT BUGS:
-- 'net_spd' func not currently working [07/05/2021 | 18:48]
+- 'net_spd' func not currently working [07/05/2021 | 18:48]>>>|FIXED|
